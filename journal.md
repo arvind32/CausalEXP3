@@ -34,7 +34,7 @@ I became very interested in the Nordic Gender Paradox. This is a phenomenon in N
 
 I have stored photos of all my notes in the link below.
 
-The main crux of investigation is the causal model in [this document's](https://docs.google.com/document/d/1Udi3FI0cPqxdA-J4_iLGWMnFxIEDUSvThgdx1kZblyo/edit?usp=sharing) first page (LionMail access). How much of this disparity is via Intrinsic vs. Extrinsic pathways?
+This is the causal model I drew up for this [this document's](https://docs.google.com/document/d/1Udi3FI0cPqxdA-J4_iLGWMnFxIEDUSvThgdx1kZblyo/edit?usp=sharing) on the first page (LionMail access). How much of this disparity is via Intrinsic vs. Extrinsic pathways?
 
 One way I can think of testing this is to run a Synthetic Control study using macroeconomic data from Sweden, Norway and Finland. If a tax break for household services in SWE affects female participation in the workforce (NOR, FIN: donor pool), then we can assume that extrinsic factors indeed affect participation.
 
