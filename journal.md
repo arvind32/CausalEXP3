@@ -27,3 +27,8 @@ RCTs in Northern Indian states were very promising and they rolled it out. I unf
 - While government data proved excellent (they even had district level tags for female toilet availability!) they don't have subject level performance, just aggregated dropout rates, pass-fail etc.
 
 This would be my back-up if I find no other dataset.
+
+**Weeks 4-5:**
+
+I became very interested in the Nordic Gender Paradox. This is a phenomenon in Nordic countries where, one would imagine that ranking higher on several measures of gender equality, we would see more female CEOs and STEM graduates. However, the gap actually widens compared to other countries. This is a somewhat controversial claim, and I have stored photos of all my notes here.
+
