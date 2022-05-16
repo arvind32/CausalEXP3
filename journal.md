@@ -1,7 +1,3 @@
-**14 Apr:**
-
-I was only just directed by a classmate to the part in the course description detailing that we need to maintain this repository. Sincere apologies for starting my commits late, I will back-date my project history through the semester.
-
 **Week 1-2:**
 
 I wanted to do a comparison of synthetic controls of a large-scale intervention (which I would do) and prior RCTs on the same intervention, to see if they align.
@@ -54,3 +50,13 @@ Trying to frame this as a Bandit problem seems tricky. I could regard the whole 
 
 Separately, I also tried to [code up some simulations](src/invariant-learning/utils/) for invariant learning. I think this would be really cool to just test out with a simple linear case, to see if dimensionality reduction retrieves the latents.
 
+**Week 12+:**
+
+I think I figured out how to decompose the final outcome in terms of preceding variables, such that we are still able to look at all previous values when deciding an intervention.
+
+Update: it's worked on an experiment!
+Update: it's worked on another experiment!
+
+I'm still trying to prove the theoretical guarantee, though. It's turning out to be quite tricky. In the standard EXP3 proof, we use actual losses per round, which is an unbiased estimator (after importance weighting). There's no reason to believe an estimated loss serves this function. Maybe I can try to also use actual values of covariates in each round in the decomposition. But this is going to be terribly noisy (maybe I can experiment with this approach later on).
+
+I hope to eventually submit this to AISTAT 2023!!
