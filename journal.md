@@ -55,6 +55,7 @@ Separately, I also tried to [code up some simulations](src/invariant-learning/ut
 I think I figured out how to decompose the final outcome in terms of preceding variables, such that we are still able to look at all previous values when deciding an intervention.
 
 Update: it's worked on an experiment!
+
 Update: it's worked on another experiment!
 
 I'm still trying to prove the theoretical guarantee, though. It's turning out to be quite tricky. In the standard EXP3 proof, we use actual losses per round, which is an unbiased estimator (after importance weighting). There's no reason to believe an estimated loss serves this function. Maybe I can try to also use actual values of covariates in each round in the decomposition. But this is going to be terribly noisy (maybe I can experiment with this approach later on).
