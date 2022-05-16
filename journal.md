@@ -48,7 +48,7 @@ The problem is learning this on-line.
 
 Trying to frame this as a Bandit problem seems tricky. I could regard the whole action-vector as one single action (decided at the start) and optimize for that, but it doesn't do justice to the "dynamic" angle of the problem. I could also make each step truly dependent on the past. But this gets intractable very quickly. Nathan Kallus has some super cool work on DTR Bandits, but it only handles 2-step interventions. Maybe I can try to generalize this once I understand the math.
 
-Separately, I also tried to [code up some simulations](src/invariant-learning/utils/) for invariant learning. I think this would be really cool to just test out with a simple linear case, to see if dimensionality reduction retrieves the latents.
+Separately, I also tried to [code up some simulations](src/invariant-learning/utils/) for invariant learning. I think this would be really cool to just test out with a simple linear case, to see if dimensionality reduction retrieves the latents. But this is a separate workstream I should probably pursue in the summer.
 
 **Week 12+:**
 
